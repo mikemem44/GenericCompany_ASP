@@ -21,5 +21,7 @@ namespace EL
         public int Stock { get;}
         [Required]
         public bool Activo { get; set; }  
+
+        //edit to test branches and pull requests
     }
 }
