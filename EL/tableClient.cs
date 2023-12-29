@@ -23,5 +23,6 @@ namespace EL
         [Required]
         public bool Activo { get; set; }
 
+        //linea de prueba para probar que todo este bien
     }
 }
